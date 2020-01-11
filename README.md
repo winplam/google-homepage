@@ -4,6 +4,8 @@ from The Odin Project. The objective of the assignment is to use developer tools
 [Google home page](https://www.google.com/) and rebuild it's appearance step-by-step. No functionality is included in
 the assignment, only HTML and CSS.
 
+[View completed project on Github Pages](https://winplam.github.io/google-homepage/)
+
 ## Project Post-Mortem
 This was my first project for the Odin Project and having used WYSIWYG editors in the past to create HTML pages, doing
 so by hand was an intimidating challenge at first. After getting the hang of it, I found the process to be enjoyable
